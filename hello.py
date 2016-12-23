@@ -2,4 +2,7 @@
 
 # Hello world python program
 
-print "Hello World!";
+hello = "Hello";
+world = "World";
+
+print ("%s %s!" % (hello, world));
